@@ -1,0 +1,91 @@
+
+.nav {
+    height: 90px;
+    width: 1800px;
+    background-color:#6f9eab;
+}
+.logo{
+    font-family: Arial;
+    color: #54ffe3;
+    padding-left: 1530px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+.navi a {
+    float: left;
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-size: 27px;
+    margin-top: -55px;
+    margin-left: 10px;
+  }
+.pads{    
+    background-color: #d9ffde;
+    width: 1800px;
+    height: 100px;
+
+}
+.text{
+    font-family: Copperplate Gothic Light;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: 10px;
+	padding-top: 30px;
+}
+.name{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    margin-left: 400px;
+}
+.context{
+    background-color: rgb(66, 227, 255);
+    width: 1800px;
+    height: 550px;
+}
+.footer{
+    background-color: black;
+    height: 150px;
+    width: 1800px;
+}
+.social{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    padding-left: 500px;
+    padding-top: 10px;
+}
+.social a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 40px;
+  }
+.legal{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    padding-left: 700px;
+    margin-top: -107px;
+}
+.legal a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    margin-left: 10px;
+}
+li{
+    list-style-type: none;
+}
+.last{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-left: 530px;
+    margin-top:10px;
+}
+.flower{
+	height:
+	s
+}
